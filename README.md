@@ -18,6 +18,8 @@ You can filter by team, position, or year, and all the charts update.
 - A pivot table showing starter rate by position and round
 - Expected value for each pick, looked up with `INDEX` / `MATCH`
 
+![Excel pivot table](charts/excel_pivot.png)
+
 ## Data
 
 - Draft picks from [nflverse](https://github.com/nflverse), loaded with the `nflreadpy` Python package
